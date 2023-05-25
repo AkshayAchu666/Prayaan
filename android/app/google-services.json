@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60361292717",
+    "firebase_url": "https://mini-project-90bdb-default-rtdb.firebaseio.com",
+    "project_id": "mini-project-90bdb",
+    "storage_bucket": "mini-project-90bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60361292717:android:ea20a446f80e2c61337f24",
+        "android_client_info": {
+          "package_name": "com.example.prayaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60361292717-29350orbv7c8g1m4n8s7io1astlrp9e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrpflZlB9g3JRQn5svQGLm50M8U911bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60361292717-29350orbv7c8g1m4n8s7io1astlrp9e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
